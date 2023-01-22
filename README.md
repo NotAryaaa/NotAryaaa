@@ -8,8 +8,8 @@
 
 # About
 
-👋🏻 Hey! I'm Arya and i live in iran, i use discord everyday because i really like it. i joined discord in **2021** and started learning about it, then i started creating my own community named **Gravity Space**, it had about 100 members but for some reasons i decided to delete it, now, it's 2023 and im going to rebuild the server! i code high-quality discord bots with a lot of cool features, i had over 20 projects (discord bots and servers), i know, you say: where are your projects? they're off because i didn't have money to keep them 24/7. again you say: what about your servers? i lost them! i had over 10 discord accounts and i can't remember those old servers.
-Want to contact me? DM me in discord! **NotArya#9070**
+👋🏻 Hey! I'm Arya And I Live In Iran, I Use Discord Everyday Because I Really Like It. I Joined Discord In **2021** And Started Learning About It, Then I Started Creating My Own Community Named **gravity Space**, It Had About 100 Members But For Some Reasons I Decided To Delete It, Now, It's 2023 And Im Going To Rebuild The Server! I Code High-quality Discord Bots With A Lot Of Cool Features, I Had Over 20 Projects (Discord Bots And Servers), I Know, You Say: Where Are Your Projects? They're Off Because I Didn't Have Money To Keep Them 24/7. Again You Say: What About Your Servers? I Lost Them! I Had Over 10 Discord Accounts And I Can't Remember Those Old Servers.
+Want To Contact Me? Dm Me In Discord! **NotArya#9070**
 
 # Skills
 
