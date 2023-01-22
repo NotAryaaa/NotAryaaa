@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1065747043131334746/1066379967149133834/banner.png" width="1100"/>
+  <img src="https://cdn.discordapp.com/attachments/1066393122088693770/1066614376318120006/banner.png" width="1100"/>
 </div>
 
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1065747043131334746/1066383295107047525/about.gif" width="100"/>
+  <img src="https://cdn.discordapp.com/attachments/1065747043131334746/1066383295107047525/about.gif" width="40"/>
 </div>
 
 # About
