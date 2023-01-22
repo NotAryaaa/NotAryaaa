@@ -29,4 +29,7 @@ Want to contact me? DM me in discord! **NotArya#9070**
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968827.png" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/991px-Spotify_icon.svg.png" title="Spotify" alt="Spotify" width="40" height="40"/>&nbsp;
 </div>
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fnotarya.rf.gd">
+
+# Stats
+
+<img alt="Website" src="https://img.shields.io/website?ip_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fnotarya.rf.gd">
