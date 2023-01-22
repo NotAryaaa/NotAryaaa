@@ -30,6 +30,8 @@ Want to contact me? DM me in discord! **NotArya#9070**
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/991px-Spotify_icon.svg.png" title="Spotify" alt="Spotify" width="40" height="40"/>&nbsp;
 </div>
 
-# Stats
+# Website
 
-<img alt="Website" src="https://img.shields.io/website?ip_color=green&down_message=Up&up_color=red&up_message=Down&url=https%3A%2F%2Fnotarya.rf.gd">
+<img alt="Website" src="https://img.shields.io/website?down_color=green&down_message=notarya.rf.gd&label=address&up_color=green&up_message=notarya.rf.gd&url=https%3A%2F%2Fnotarya.rf.gd">
+
+<img alt="Website" src="https://img.shields.io/website?down_color=green&down_message=up&up_color=red&up_message=down&url=https%3A%2F%2Fnotarya.rf.gd">
