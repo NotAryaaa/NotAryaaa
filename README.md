@@ -40,6 +40,6 @@ Want to contact me? DM me in discord! **NotArya#9070**
 
 <img src="https://komarev.com/ghpvc/?username=notaryaaa&style=flat-square&color=blue" alt=""/>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NotAryaaa&theme=dark&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NotAryaaa&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=NotAryaaa&theme=theme=tokyonight&hide_border=true" />
 </picture>
