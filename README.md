@@ -43,3 +43,8 @@ Want to contact me? DM me in discord! **NotArya#9070**
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NotAryaaa&theme=tokyonight&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=NotAryaaa&theme=theme=tokyonight&hide_border=true" />
 </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_borders=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_borders=true" />
+</picture>
+
