@@ -39,4 +39,4 @@ Want to contact me? DM me in discord! **NotArya#9070**
 # Github Stats
 
 <img src="https://komarev.com/ghpvc/?username=notaryaaa&style=flat-square&color=blue" alt=""/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=notaryaaa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NotAryaaa"/></a>
