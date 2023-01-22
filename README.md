@@ -36,4 +36,4 @@ Want to contact me? DM me in discord! **NotArya#9070**
 
 <img alt="Website" src="https://img.shields.io/website?down_color=green&down_message=up&up_color=red&up_message=down&url=https%3A%2F%2Fnotarya.rf.gd">
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=notaryaaa&style=flat-square&color=blue" alt=""/>
