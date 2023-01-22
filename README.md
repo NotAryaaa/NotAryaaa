@@ -28,5 +28,4 @@ Want to contact me? DM me in discord! **NotArya#9070**
   <img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Discord_Development_2021.svg/revision/latest/scale-to-width-down/250?cb=20211123093519" title="Discord" alt="Discord" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968827.png" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/991px-Spotify_icon.svg.png" title="Spotify" alt="Spotify" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
