@@ -2,11 +2,8 @@
   <img src="https://cdn.discordapp.com/attachments/1066393122088693770/1066614376318120006/banner.png" width="1100"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1065747043131334746/1066383295107047525/about.gif" width="40"/>
-</div>
 
-# About
+# About Me
 
 👋🏻 Hey! I'm Arya And I Live In Iran, I Use Discord Everyday Because I Really Like It. I Joined Discord In **2021** And Started Learning About It, Then I Started Creating My Own Community Named **Gravity Space**, It Had About 100 Members But For Some Reasons I Decided To Delete It, Now, It's 2023 And Im Going To Rebuild The Server! I Code High-quality Discord Bots With A Lot Of Cool Features, I Had Over 20 Projects (Discord Bots And Servers), I Know, You Say: Where Are Your Projects? They're Off Because I Didn't Have Money To Keep Them 24/7. Again You Say: What About Your Servers? I Lost Them! I Had Over 10 Discord Accounts And I Can't Remember Those Old Servers.
 Want To Contact Me? Dm Me In Discord! **NotArya#9070**
