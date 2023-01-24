@@ -1,6 +1,6 @@
 ![NotArya](https://media.discordapp.net/attachments/1066393122088693770/1066614376318120006/banner.png?width=1025&height=297)
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Arya;I+Create+Discord+Bots+And+Servers;I+love+creating+and+coding+cool+stuff;Also%2C+I'm+interested+in+managing+communities;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Arya;I+Create+Discord+Bots+And+Servers;I+Chill+And+And+Code;Welcome!" alt="Typing SVG" /></h1>
 
 Hey! I'm Arya
 
