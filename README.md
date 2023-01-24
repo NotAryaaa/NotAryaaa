@@ -10,7 +10,7 @@ I Live In Iran, I'm A Student And I Love Coding And Gaming. I Use Discord 24/7 A
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)
 
 ### Apps That I Use
-![Apps](https://skillicons.dev/icons?i=vscode,discord,spotify,soundcloud)
+![Apps](https://skillicons.dev/icons?i=vscode,discord,instagram,github)
 # 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAryaaa&show_icons=true&theme=tokyonight&hide_border=true")
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=NotAryaaa&show_icons=true&theme=tokyonight&hide_border=true)
