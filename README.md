@@ -1,47 +1,20 @@
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1066393122088693770/1066614376318120006/banner.png" width="1100"/>
-</div>
+![NotArya](https://media.discordapp.net/attachments/1066393122088693770/1066614376318120006/banner.png?width=1025&height=297)
+
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Arshia;a+Discord+Bot+Developer+and+Server+Architect;I+love+creating+and+coding+cool+stuff;Also%2C+I'm+interested+in+managing+communities;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></h1>
+
+Hey! I'm Arya
+
+I Live In Iran, I'm A Student And I Love Coding And Gaming. I Use Discord 24/7 And I Joined Discord In 2021. I Like Cubing Too! I Have A Lot Of Cubes. I Don't Like Math, But I Like Science. I Create High-Quality Discord Bots, Discord Servers. I Created A Lot Of Discord Bots And Discord Servers With A Lot Of Features.
+
+### My Skills and Tools & Software I Use
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,discord)
+# 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAryaaa&show_icons=true&theme=tokyonight&hide_border=true")
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=NotAryaaa&show_icons=true&theme=tokyonight&hide_border=true)
+
+#
+[![Discord Presence](https://lanyard.cnrad.dev/api/1021859420747071559)](https://discord.com/users/1021859420747071559)
 
 
-# About Me
-
-👋🏻 Hey! I'm Arya And I Live In Iran, I Use Discord Everyday Because I Really Like It. I Joined Discord In **2021** And Started Learning About It, Then I Started Creating My Own Community Named **Gravity Space**, It Had About 100 Members But For Some Reasons I Decided To Delete It, Now, It's 2023 And Im Going To Rebuild The Server! I Code High-quality Discord Bots With A Lot Of Cool Features, I Had Over 20 Projects (Discord Bots And Servers), I Know, You Say: Where Are Your Projects? They're Off Because I Didn't Have Money To Keep Them 24/7. Again You Say: What About Your Servers? I Lost Them! I Had Over 10 Discord Accounts And I Can't Remember Those Old Servers.
-Want To Contact Me? Dm Me In Discord! **NotArya#9070**
-
-# Skills
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" alt="DiscordJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-</div>
-
-# Apps That I Use
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Discord_Development_2021.svg/revision/latest/scale-to-width-down/250?cb=20211123093519" title="Discord" alt="Discord" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968827.png" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/991px-Spotify_icon.svg.png" title="Spotify" alt="Spotify" width="40" height="40"/>&nbsp;
-</div>
-
-# Website Stats
-
-<img alt="Website" src="https://img.shields.io/website?down_color=green&down_message=notarya.rf.gd&label=address&up_color=green&up_message=notarya.rf.gd&url=https%3A%2F%2Fnotarya.rf.gd">
-
-<img alt="Website" src="https://img.shields.io/website?down_color=green&down_message=up&up_color=red&up_message=down&url=https%3A%2F%2Fnotarya.rf.gd">
-
-# Github Stats
-
-<img src="https://komarev.com/ghpvc/?username=notaryaaa&style=flat-square&color=blue" alt=""/>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NotAryaaa&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=NotAryaaa&theme=theme=tokyonight&hide_border=true" />
-</picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NotAryaaa&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=NotAryaaa&show_icons=true&theme=tokyonight&hide_border=true" />
-</picture>
-
+[![Website notarya.rf.gd](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://notarya.rf.gd)
+<img src="https://komarev.com/ghpvc/?username=NotAryaaa&color=brightgreen" alt="Views" />
