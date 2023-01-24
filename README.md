@@ -1,13 +1,16 @@
 ![NotArya](https://media.discordapp.net/attachments/1066393122088693770/1066614376318120006/banner.png?width=1025&height=297)
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=%2C+I'm+Arya;I+Create+Discord+Bots+And+Servers;I+Chill+And+Code;Welcome!" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=I'm+Arya;I+Create+Discord+Bots+And+Servers;I+Chill+And+Code;Welcome!" alt="Typing SVG" /></h1>
 
 Hey! I'm Arya
 
 I Live In Iran, I'm A Student And I Love Coding And Gaming. I Use Discord 24/7 And I Joined Discord In 2021. I Like Cubing Too! I Have A Lot Of Cubes. I Don't Like Math, But I Like Science. I Create High-Quality Discord Bots, Discord Servers. I Created A Lot Of Discord Bots And Discord Servers With A Lot Of Features.
 
-### My Skills and Tools & Software I Use
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,discord)
+### Skills
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)
+
+### Apps That I Use
+![Apps](https://skillicons.dev/icons?i=vscode,discord,spotify,soundcloud)
 # 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAryaaa&show_icons=true&theme=tokyonight&hide_border=true")
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=NotAryaaa&show_icons=true&theme=tokyonight&hide_border=true)
