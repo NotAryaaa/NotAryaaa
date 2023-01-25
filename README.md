@@ -4,8 +4,7 @@
 
 Hey! I'm Arya
 
-I Live In Iran, I'm A Student And I Love Coding And Gaming. I Use Discord 24/7 And I Joined Discord In 2021. I Like Cubing Too! I Have A Lot Of Cubes. I Don't Like Math, But I Like Science. I Create High-Quality Discord Bots, Discord Servers. I Created A Lot Of Discord Bots And Discord Servers With A Lot Of Features.
-
+I'm A Student, I Like Computers & Science, I Don't Like Math Very Much. I Want To Be An IT When I Got Older. I Joined Discord In 2021 And Started Learning About It, Then I Created My Own Server Named "Gravity Space", It Had About 100 Members But It Got Raided And I Decided To Delete It. Then I Created My Own Bot, It Was A Great Music Bot, I Hosted It And My Bot Was Working About 1 Week But It Turned Off, And I Couldn't Find Any Free Hosting Service, So I Kept It Off. If you want a website for free, DM me in discord! 
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)
 
