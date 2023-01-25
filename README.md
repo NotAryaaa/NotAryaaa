@@ -13,7 +13,7 @@ I Live In Iran, I'm A Student And I Love Coding And Gaming. I Use Discord 24/7 A
 ![Apps](https://skillicons.dev/icons?i=vscode,discord,instagram,github)
 
 ### Active Projects
-[Astrophel] (https://github.com/notaryaaa/astrophel)
+[Astrophel](https://github.com/notaryaaa/astrophel)
 # 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NotAryaaa&theme=tokyonight&hide_border=true)
 
