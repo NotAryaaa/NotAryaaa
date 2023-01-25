@@ -4,7 +4,7 @@
 
 Hey! I'm Arya
 
-I'm A Student, I Like Computers & Science, I Don't Like Math Very Much. I Want To Be An IT When I Got Older. I Joined Discord In 2021 And Started Learning About It, Then I Created My Own Server Named "Gravity Space", It Had About 100 Members But It Got Raided And I Decided To Delete It. Then I Created My Own Bot, It Was A Great Music Bot, I Hosted It And My Bot Was Working About 1 Week But It Turned Off, And I Couldn't Find Any Free Hosting Service, So I Kept It Off. If you want a website for free, DM me in discord! 
+I'm A Student, I Like Computers & Science, I Don't Like Math Very Much. I Want To Be An IT When I Got Older. I Joined Discord In 2021 And Started Learning About It, Then I Created My Own Server Named "Gravity Space", It Had About 100 Members But It Got Raided And I Decided To Delete It. Then I Created My Own Bot, It Was A Great Music Bot, I Hosted It And My Bot Was Working About 1 Week But It Turned Off, And I Couldn't Find Any Free Hosting Service, So I Kept It Off. If you want a website for free, DM me in discord! I Can Create Amazing Looking Websites With HTML And CSS Too!
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)
 
