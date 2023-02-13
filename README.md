@@ -18,8 +18,7 @@ Want A Website, Server Or A Bot? DM Me In Discord! Or Use [Astrophel](https://di
 ![](https://komarev.com/ghpvc/?username=notaryaaa)
 
 ### Skills
-![JS](skillicons.dev/icons?i=javascript)
-![HTML](skillicons.dev/icons?i=html)
+<img src="skillicons.dev/icons?i=javascript">
 
 
 
