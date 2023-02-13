@@ -23,6 +23,6 @@ Want A Website, Server Or A Bot? DM Me In Discord! Or Use [Astrophel](https://di
 ### Apps
 <img src="https://cdn.discordapp.com/attachments/1070673897126637609/1074710127799713962/apps.svg">
 
+### Github Stats
 
-
-
+[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=notarya)](https://github.com/notaryaaa)
