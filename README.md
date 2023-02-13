@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1070673897126637609/1074702677365244014/banner-modified.png" width="1000">
+<img src="https://cdn.discordapp.com/attachments/1070673897126637609/1074702677365244014/banner-modified.png" width="950">
 
 
 # 👋🏻 Hey! I'm Arya
