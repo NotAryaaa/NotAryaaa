@@ -1,16 +1,5 @@
-<img src="https://cdn.discordapp.com/banners/1021859420747071559/1fd26525605b56d08178b2d8fb6f0c0a.png?size=1024">
+<img src="https://cdn.discordapp.com/attachments/1070673897126637609/1074702677365244014/banner-modified.png">
 
-```
-
-  _   _       _                             
- | \ | |     | |     /\                     
- |  \| | ___ | |_   /  \   _ __ _   _  __ _ 
- | . ` |/ _ \| __| / /\ \ | '__| | | |/ _` |
- | |\  | (_) | |_ / ____ \| |  | |_| | (_| |
- |_| \_|\___/ \__/_/    \_\_|   \__, |\__,_|
-                                 __/ |      
-                                |___/       
-```
 
 # 👋🏻 Hey! I'm Arya
 I'm Arya, A 14 Years Old Boy From Iran That Loves Coding And Gaming. I Code High Quality Discord Bots, And I Create Cool Discord Servers.
