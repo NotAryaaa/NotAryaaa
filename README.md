@@ -20,8 +20,8 @@ Want A Website, Server Or A Bot? DM Me In Discord! Or Use [Astrophel](https://di
 ### Skills
 <img src="https://cdn.discordapp.com/attachments/1070673897126637609/1074708921245241374/SPOILER_skills.svg">
 
-
-
+### Apps
+<img src="https://cdn.discordapp.com/attachments/1070673897126637609/1074710127799713962/apps.svg">
 
 
 
