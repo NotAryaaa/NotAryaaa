@@ -23,7 +23,7 @@ Want A Website, Server Or A Bot? DM Me In Discord! Or Use [Astrophel](https://di
 ### 🤖 Apps
 <img src="https://cdn.discordapp.com/attachments/1070673897126637609/1074710127799713962/apps.svg">
 
-### Github Stats
+### 🚀 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=notaryaaa&theme=tokyonight&hide_border=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=notaryaaa&hide_border=true&theme=tokyonight">
