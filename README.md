@@ -19,6 +19,7 @@ Want A Website, Server Or A Bot? DM Me In Discord! Or Use [Astrophel](https://di
 
 ### Skills
 <img src="https://cdn.discordapp.com/attachments/1070673897126637609/1074707932576493639/js.svg">
+<img src="https://cdn.discordapp.com/attachments/1070673897126637609/1074707931783762050/html.svg">
 
 
 
