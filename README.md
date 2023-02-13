@@ -25,4 +25,4 @@ Want A Website, Server Or A Bot? DM Me In Discord! Or Use [Astrophel](https://di
 
 ### Github Stats
 
-[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=notarya)
+<img src="https://github-readme-stats.vercel.app/api?username=notaryaaa">
