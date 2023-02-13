@@ -15,6 +15,4 @@ Want A Website, Server Or A Bot? DM Me In Discord! Or Use [Astrophel](https://di
 ### Stats
 <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=down&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fnotarya.rf.gd">
 <img alt="Discord" src="https://img.shields.io/discord/1070334799836872754?label=Astrophel&logo=Discord&logoColor=white">
-
-### Test
 ![](https://komarev.com/ghpvc/?username=notaryaaa)
