@@ -10,3 +10,7 @@
                                 |___/       
 
 ```
+
+# Hey! I'm Arya
+I'm Arya, A 14 Years Old Boy From Iran That Loves Coding And Gaming. I Code High Quality Discord Bots, And I Create Cool Discord Servers.
+
