@@ -13,6 +13,6 @@ I Joined Discord In 2021 And Started Learning About It, Then I Started Creating 
 Want A Website, Server Or A Bot? DM Me In Discord! Or Use [Astrophel](https://discord.gg/r4pNSU8vS3) (It's My Company)
 
 ### Stats
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=down&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fnotarya.rf.gd">
-<img alt="Discord" src="https://img.shields.io/discord/1070334799836872754?label=Astrophel&logo=Discord&logoColor=white">
+![Website](https://img.shields.io/website?down_color=red&down_message=down&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fnotarya.rf.gd)
+![Discord](https://img.shields.io/discord/1070334799836872754?label=Astrophel&logo=Discord&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=notaryaaa)
